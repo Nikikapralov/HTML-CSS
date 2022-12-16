@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+a {
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+    border-style: solid;
+    border-radius: 15px;
+    border-color: black;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: medium;
+    margin: 10px;
+    
+}
+
+a:visited.row2{
+    color: white;
+}
+
+a:visited.row3{
+    color: white;
+}
+
+a.row2{
+    color: white;
+}
+
+a.row3{
+    color: white;
+}
+
+div.container{
+    padding-left: 300px;
+    padding-right: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+button {
+    color: rgb(51, 51, 51);
+    border-style: solid;
+    border-radius: 15px;
+    border-color: black;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: medium;
+    margin: 10px;
+    background-color: lightgray;
+}
+
+.row2{
+    color: white;
+    background-color: black;
+}
+
+.row3{
+    color: white;
+    background-color: black;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+button.toGreen:hover {
+    background-color: green;
+}
+
+button.toGreenOutline:hover {
+    background-color: lightgray;
+    color: green;
+    border-color: green;
+}
+

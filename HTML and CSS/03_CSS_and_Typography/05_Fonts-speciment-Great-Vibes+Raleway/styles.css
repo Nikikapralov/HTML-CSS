@@ -1,0 +1,21 @@
+body {
+    font-family: Raleway, sans-serif;
+    line-height: 1.5;
+}
+
+h1 {
+    font-family: "Great Vibes", cursive;
+    line-height: 1.2;
+    font-weight: bold;
+}
+
+.circle {
+    list-style: circle;
+}
+
+.disc {
+    list-style: disc;
+}
+.numbered {
+    list-style: decimal;
+}
